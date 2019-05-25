@@ -1,6 +1,6 @@
 # 锁 🔒
 ## 项目结构
-[树莓派(嵌入式)](#)
+[树莓派(嵌入式)](https://github.com/is305-smart-lock/face-recognition)
 
 <--UDP Socket-->
 
